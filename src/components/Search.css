@@ -1,0 +1,36 @@
+.react-loading-skeleton {
+    margin-top: 15px;
+  }
+
+  /* Responsive  */
+
+@media all and (min-width: 100px) and (max-width: 480px) { 
+  .title {
+    font-size: 15px;
+    padding: 0px 20px;
+    line-height: 1.5;
+  }
+
+  .serach-bar {
+    width: 70vw;
+    margin-right: 20px;
+  }
+
+}
+
+ @media all and (min-width: 480px) and (max-width: 768px) { 
+  .title {
+    font-size: 25px;
+    padding: 0px 20px;
+    line-height: 1.5;
+  }
+
+}
+
+ @media all and (min-width: 768px) and (max-width: 1024px) { 
+
+}
+
+@media all and (min-width: 1025px) and (max-width: 1200px) { 
+
+} 
